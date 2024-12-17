@@ -1,0 +1,56 @@
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Form1.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CopyComplete
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Dashboard.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_AddRoom.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CustomerRegisteration.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CheckOut.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CustomerDetails.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.UC_Employee.resources
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe.config
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bilal\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_View.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\working\C# project\Hotel Management System\Hotel Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe.config
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Dashboard.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Form1.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_AddRoom.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CheckOut.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CustomerDetails.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_CustomerRegisteration.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Hotel_UserControl.UC_View.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.UC_Employee.resources
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CopyComplete
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+F:\working\C# project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
